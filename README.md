@@ -1,15 +1,17 @@
 # Forecasting Utilization Rates for the Victoria Police Forensic Services Centre
 
-### Abstract
+### Overview
 
 The Victoria Police Forensic Services Centre maintains a database that contains the case numbers of samples
 that have been submitted for forensic testing along with their associated offence categories. Different types
-of offense categories typically require the services of different sectors of the centre. The purpose of 
-this project was to forecast the workloads of the different forensic service sectors. To achieve this, it was
-assumed that the offense category was equivalent to the business sector. Utilization rates were calculated by
-dividing the number of cases in the Forensic Services Centre database with the total number of cases in Victoria.
+of offense categories typically require the services of different sectors of the centre. 
 
-Forecast models were produced using SAS procedures. PROC ARIMA produces ARIMA and seasonal ARIMA models. 
+The purpose of this project was to forecast the workloads of the different forensic service sectors. To achieve
+this, it was assumed that the offense category was equivalent to the business sector. Utilization rates were 
+calculated by dividing the number of cases in the Forensic Services Centre database with the total number of 
+cases in Victoria.
+
+Forecast models were produced using SAS procedures. 
 
 ### Data Overview
 
