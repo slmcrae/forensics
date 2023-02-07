@@ -27,7 +27,7 @@ and assist in decision making with regards to budgets, planning and resource all
 
 The raw data is confidential and therefore not able to be published publicly.
 
-### Data and Report Links
+### Report Links
 
 [Report (google docs)](https://docs.google.com/document/d/1HAfT4B2thCUCwLaHc4mXS8NszTKxPLnB/edit?usp=sharing&ouid=113254014887000466986&rtpof=true&sd=true)<br>
 [Powerpoint Presentation](https://github.com/slmcrae/forensics/blob/master/forecasting_utilization_rates_presentation.pptx)<br>
@@ -36,5 +36,4 @@ The raw data is confidential and therefore not able to be published publicly.
 Vicpol lab image: Archive News Ltd<br>
 <br>
 <br>
-
 _SMcRae_ _02/06/2019_<br>
