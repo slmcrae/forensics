@@ -30,11 +30,10 @@ The raw data is confidential and therefore not able to be published publicly.
 ### Data and Report Links
 
 [Report (google docs)](https://docs.google.com/document/d/1HAfT4B2thCUCwLaHc4mXS8NszTKxPLnB/edit?usp=sharing&ouid=113254014887000466986&rtpof=true&sd=true)<br>
-[Report (docx)](https://github.com/slmcrae/forensics/blob/master/forecasting_utilization_rates_report.docx)<br>
 [Powerpoint Presentation](https://github.com/slmcrae/forensics/blob/master/forecasting_utilization_rates_presentation.pptx)<br>
 
 **_Photo_** **_Credits_**<br>
-Vicpol Lab image: unknown, https://simple.wikipedia.org/wiki/Death_%28personification%29<br>
+Vicpol lab image: Archive News Ltd<br>
 <br>
 <br>
 
